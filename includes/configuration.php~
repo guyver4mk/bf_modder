@@ -1,0 +1,11 @@
+<?php
+
+define('BFMOD', 'BFMOD');
+define('DBNAME', 'localhost');
+define('DBHOST', 'guyver4');
+define('DBUSER', 'kn|nV_3g');
+define('DBPASS', 'brave_frontier');
+
+define('LIVE_DBNAME',"//77.86.16.132:1521/ddlive");
+define('LIVE_DBUSER',"dddba");
+define('LIVE_DBPASS',"beech");

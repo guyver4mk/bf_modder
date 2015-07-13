@@ -1,0 +1,38 @@
+  .charwrap {
+    /*margin-top: 150px;*/
+    /*margin-top: -80px;*/
+    margin-top: -220px;
+    z-index: 5;
+  }
+  .bfcharwrap2 {
+    display: block;
+    overflow: hidden;
+    position: relative;
+    top: 20px;
+    width: 100%;
+  }
+  .mainchar1_mobi {
+    float: left;
+    width: 100%;
+    text-align: left;
+
+
+  }
+  .mainchar2_mobi {
+    float: right;
+    width: 75%;
+    text-align: right;
+    position: absolute;
+    top: 80px !important;
+
+  }
+  
+  .mainchar, .main-char-left > img, .main-char-right > img {
+    position: relative;
+  }
+
+  .row-col{
+    font-size:large;
+    font-weight: bold;
+    font-family: Calibri, Arial, fantasy;
+  }
